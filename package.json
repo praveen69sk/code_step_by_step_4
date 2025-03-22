@@ -1,0 +1,23 @@
+{
+  "name": "jwt-demo",
+  "version": "1.0.0",
+  "description": "JWT Demo with Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen69sk/code_step_by_step_4.git"
+  },
+  "author": "Praveen S Kalawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen69sk/code_step_by_step_4/issues"
+  },
+  "homepage": "https://github.com/praveen69sk/code_step_by_step_4#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

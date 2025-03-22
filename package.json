@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JWT Demo with Node Js",
   "main": "index.js",
+  "module": "type",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
